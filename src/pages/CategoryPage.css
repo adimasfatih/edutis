@@ -1,0 +1,25 @@
+/* CategoryPage.css */
+
+.category-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.category-page h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.category-page p {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.courses-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}

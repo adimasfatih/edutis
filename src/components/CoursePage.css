@@ -1,0 +1,30 @@
+/* CoursePage.css */
+
+.course-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.course-page h1 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+.course-page p {
+  font-size: 1.2rem;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.course-page video {
+  display: block;
+  margin: 20px auto;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.comment-section {
+  margin-top: 20px;
+}
